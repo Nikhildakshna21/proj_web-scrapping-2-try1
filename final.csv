@@ -1,0 +1,117 @@
+star,constellation,right ascension,Declination,apparent magnitude,distance,spectral type,brown dwarf,mass,radius,orbital period,semimajor axis,ecc,discovery year
+b'54 Piscium',b'Pisces',00h39m22s,"b'+21\xc2\xb0\xc2\xa015\'\xc2\xa002""'",5.88,36.1,b'K0V+T7.5\n',B,53,0.798691378056286,,476,,"2006
+"
+b'81 Cancri',b'Cancer',9h12m14.69s,"b'14\xc2\xb0\xc2\xa0 59 \'\xc2\xa0 39.6""'",6.77,66,b'L8',CD,,,,880,,"2001
+"
+b'AB Pictoris',b'Pictor',06h19s,"b'-58\xc2\xb0\xc2\xa003\'\xc2\xa015""'",9.16,66.6,b'K2V',b,13.5,,,275,,"2005
+"
+b'CD-33\xc2\xb07795',b'Hydra',11h31m55s,"b'\xe2\x80\x9334\xc2\xb0\xc2\xa036\'\xc2\xa017""'",11.37,163.08,b'M1\n',b,20,,,100,,"1998
+"
+b'CT Chamaeleontis',b'Chamaeleon',11h04m09s,"b'\xe2\x80\x9376\xc2\xb0\xc2\xa027\'\xc2\xa019""'",12.36,538,b'K7\n',b,17,2.2,,440,,"2008
+"
+b'Eta Coronae Borealis',b'Corona Borealis',15h23m22.6s,"b'30\xc2\xb0\xc2\xa014\'\xc2\xa056""'",5.02,58.3,b'L8\n',C,63,,,3600,,"2010
+"
+b'G 196-3',b'Ursa Major',10h04m22s,"b'+50\xc2\xb0\xc2\xa023\'\xc2\xa023""'",11.77,50.2,b'M2.5\n',b,25,,,300,,"1998
+"
+b'GD 165',b'Bo\xc3\xb6tes',14h24m39.144s,"b'9\xc2\xb0\xc2\xa017\'\xc2\xa013.98""'",14.6,103,b'D4A+L4\n',B,,,,,,"1988
+"
+b'Gliese 570',b'Libra',14h57m28s,"b'-21\xc2\xb0\xc2\xa024\'\xc2\xa056""'",5.64,19.0,b'K4V+M1V+M3V\n',D,52,,,1500,,"2000
+"
+b'GU Piscium',b'Pisces',01h12m35.04s,"b'+17\xc2\xb0\xc2\xa003\'\xc2\xa055.7""'",13.1,155.3,b'M3V\n',b,11,,,2000,,"2006
+"
+b'HD 89744',b'Ursa Major',10h22m10.56s,"b'+41\xc2\xb0\xc2\xa013\'\xc2\xa046.31""'",5.74,126.2,b'F7IV\n',B,,,,,,"2000
+"
+b'HD 100546',b'Musca',11h33m25s,"b'\xe2\x80\x9370\xc2\xb0\xc2\xa011\'\xc2\xa041""'",6.70,337.25,b'B9Vne\n',b,20,,,6.5?,,"2005
+"
+b'HN Pegasi',b'Pegasus',21h44m28.46s,"b'+14\xc2\xb0\xc2\xa046\'\xc2\xa07.8""'",,58.3,b'T2.5\n',B,28,1.01,,795,,"2006
+"
+b'LHS 4040',b'Sculptor',23h54m9.28s,"b'-33\xc2\xb0\xc2\xa0 16 \'\xc2\xa0 26.6""'",20.7,,b'M8.5V',C,,,,2200,,"2004
+"
+b'UScoCTIO 108',b'Scorpius',16h05m54s,"b'\xe2\x80\x9318\xc2\xb0\xc2\xa018\'\xc2\xa043""'",,473,b'M7\n',b,14,,,670,,"2007
+"
+b'WD 0137-349',b'Sculptor',01h39m43s,"b'-34\xc2\xb0\xc2\xa042\'\xc2\xa039""'",15.33,330,b'DA\n',B,53,,0.0803,0.0030,0,"2006
+"
+b'HD 41004 B',b'Pictor',05h59m50s,"b'\xe2\x80\x9348\xc2\xb0\xc2\xa014\'\xc2\xa023""'",12.33,139,b'M2\n',b,18.4,,1.3283,0.0177,0.081,"2004
+"
+b'HD 149382',b'Ophiuchus',16h34m23s,"b'-04\xc2\xb0\xc2\xa000\'\xc2\xa052""'",8.95,241,b'B5VI\n',b,15.5,,2.391,,0,2009
+b'COROT-15',b'Monoceros',06h28m27.81s,"b'+6\xc2\xb0\xc2\xa011\'\xc2\xa010.5""'",22,,b'F7V\n',b,63.4,1.12,3.06036,0.045,0,"2010
+"
+b'Xi Ursae Majoris B',b'Ursa Major',11h18m12s,"b'+31\xc2\xb0\xc2\xa032\'\xc2\xa015""'",4.73,25.11,b'F8.5V\n',b,37,,3.98,0.06,0,"1931
+"
+b'Upsilon Andromedae',b'Andromeda',01h36m48s,"b'+41\xc2\xb0\xc2\xa024\'\xc2\xa020""'",4.63,43.9,b'F8V\n',Samh,13.98,,237.7,0.822,0.224,"1999
+"
+b'Gliese 758',b'Lyra',19h23m34s,"b'+33\xc2\xb0\xc2\xa013\'\xc2\xa019""'",6.36,51.9,b'G8V\n',B,23,,96,21,,"2009
+"
+b'HD 112758',b'Virgo',12h59m03s,"b'\xe2\x80\x9309\xc2\xb0\xc2\xa050\'\xc2\xa003""'",7.56,53.81,b'K0V\n',b,35,,103.22,0.35,0.16,"1996
+"
+b'BD-04\xc2\xb0782',b'Eridanus',04h15m10s,"b'\xe2\x80\x9304\xc2\xb0\xc2\xa025\'\xc2\xa006""'",9.39,66.6,b'K5V\n',b,21,,240.92,0.7,0.28,"1996
+"
+b'HD 110833',b'Canes Venatici',12h44m16s,"b'+51\xc2\xb0\xc2\xa045\'\xc2\xa040""'",7.04,55.44,b'K3V\n',b,17,,270.04,0.8,0.69,"1996
+"
+b'HD 89707',b'Hydra',10h20m50s,"b'\xe2\x80\x9315\xc2\xb0\xc2\xa028\'\xc2\xa048""'",7.19,81.54,b'G1V\n',b,54,,298.25,,0.95,"1991
+"
+b'Tau Geminorum',b'Gemini',07h11m08s,"b'+30\xc2\xb0\xc2\xa014\'\xc2\xa043""'",4.40,302,b'K2III\n',b,18.1,,305,,,"2004
+"
+b'HAT-P-13',b'Ursa Major',08h39m32s,"b'+47\xc2\xb0\xc2\xa021\'\xc2\xa007""'",10.62,698,b'G4\n',c,15.2,,428.5,1.186,0.691,"2009
+"
+b'HD 217580',b'Aquarius',23h01m52s,"b'\xe2\x80\x9303\xc2\xb0\xc2\xa050\'\xc2\xa055""'",7.46,58.7,b'K4V\n',b,60,,454.66,1,0.52,"1994
+"
+b'HD 16760',b'Perseus',02h42m21s,"b'+38\xc2\xb0\xc2\xa037\'\xc2\xa007""'",8.74,163,b'G5V\n',b,14.3,,465.1,1.13,0.067,"2009
+"
+b'HD 13189',b'Triangulum',02h09m40s,"b'+32\xc2\xb0\xc2\xa018\'\xc2\xa059""'",7.57,603.4,b'K2II\n',b,14,,471.6,1.85,0.28,"2005
+"
+b'HD 18445',b'Fornax',02h57m13s,"b'\xe2\x80\x9324\xc2\xb0\xc2\xa058\'\xc2\xa030""'",7.78,83.92,b'K2V\n',b,39,,554.67,0.9,0.54,"1991
+"
+b'HD 8673',b'Andromeda',01h26m09s,"b'+34\xc2\xb0\xc2\xa034\'\xc2\xa047""'",6.31,124.75,b'F7V\n',b,14,,639,1.58,,"2005
+"
+b'NGC 4349-127',b'Crux',12h24m08s,"b'-61\xc2\xb0\xc2\xa052\'\xc2\xa018""'",7.4,7097,b'MIII?\n',b,19.8,,677.8,2.38,0.19,"2007
+"
+b'Gliese 569',b'Bo\xc3\xb6tes',14h54m29s,"b'+16\xc2\xb0\xc2\xa006\'\xc2\xa004""'",10.2,31.5,b'M3V\n',Ba + Bb,116,,870,0.87,0.317,1988
+b'HD 29587',b'Perseus',04h41m34s,"b'+42\xc2\xb0\xc2\xa007\'\xc2\xa025""'",7.29,146.77,b'G2V\n',b,40,,1471.7,2.5,0.37,"1996
+"
+b'ChaH\xce\xb18',b'Chamaeleon',11h07m48s,"b'-77\xc2\xb0\xc2\xa040\'\xc2\xa008""'",20.1,522,b'M6.5\n',b,18,,1590.9,1,0.49,"2007
+"
+b'COROT-20',b'Monoceros',06h30m55.3s,"b'+0\xc2\xb0\xc2\xa013\'\xc2\xa037""'",14.66,4000,b'G2V\n',c,17,,1675,2.9,0.6,"2010
+"
+b'HD 168443',b'Serpens',18h20m04s,"b'\xe2\x80\x9309\xc2\xb0\xc2\xa035\'\xc2\xa034""'",6.92,123.5,b'G5\n',c,34,,1739.5,2.87,0.228,"2001
+"
+b'HD 38529 A',b'Orion',05h46m34s,"b'+01\xc2\xb0\xc2\xa010\'\xc2\xa005""'",5.94,138,b'G4IV\n',c,37,,2174.3,3.68,0.36,"2002
+"
+b'Epsilon Indi',b'Indus',22h03m22s,"b'\xe2\x80\x9356\xc2\xb0\xc2\xa047\'\xc2\xa009""'",4.69,11.8,b'K5V\n',Bb,28,,5478.75,2.65,,"2003
+"
+b'HW Virginis',b'Virgo',12h44m20s,"b'-08\xc2\xb0\xc2\xa040\'\xc2\xa017""'",10.9,590,b'sdB+M\n',b,19.23,,5786,5.30,0.46,"2008
+"
+b'DT Virginis',b'Virgo',13h0m41.74s,"b'12\xc2\xb0\xc2\xa0 21 \'\xc2\xa0 14.7""'",9.72,37.55,b'P\n',c,12.5,1.1,33081,,,"2010
+"
+b'HD 4113',b'Sculptor',00h43m12.60s,"b'-37\xc2\xb0\xc2\xa058\'\xc2\xa057.48""'",7.88,136,b'G5V\n',C,60,,73000,20,,"2006
+"
+b'Gliese 229',b'Lepus',06h10m35s,"b'\xe2\x80\x9321\xc2\xb0\xc2\xa051\'\xc2\xa042""'",8.14,19,b'M1V',B,40,,73050,40,,"1995
+"
+b'TYC 9486-927-1',b'Octans',21h26m50.4s,"b'-81\xc2\xb0\xc2\xa040\'\xc2\xa029.3""'",11.82,111,b'L3\xce\xb3',2MASS J2126-8140,b'13.3 (\xc2\xb1 1.7) \xc2\xa0MJ',,328725000,6900,,"2009
+"
+b'Epsilon Indi',b'Indus',22h03m22s,"b'\xe2\x80\x9356\xc2\xb0\xc2\xa047\'\xc2\xa009""'",4.69,11.8,b'K5V\n',Ba,47,,1532899.8,,,"2003
+"
+b'HD 131664',b'Apus',15h00m06s,"b'-73\xc2\xb0\xc2\xa032\'\xc2\xa007""'",8.13,180.8,b'G3V\n',b,18.15,,1951,3.17,0.638,"2008
+"
+b'HD 136118',b'Serpens',15h18m55s,"b'-01\xc2\xb0\xc2\xa035\'\xc2\xa032""'",6.94,171,b'F9V\n',b,42,,1209,1.45,0.352,"2002
+"
+b'HD 140913',b'Corona Borealis',15h45m07s,"b'+28\xc2\xb0\xc2\xa028\'\xc2\xa012""'",8.07,156.42,b'G0V\n',b,46,,147.94,0.54,0.61,"1996
+"
+b'GQ Lupi b',b'Lupus',15h49m12s,"b'\xe2\x80\x9335\xc2\xb0\xc2\xa039\'\xc2\xa003""'",11.4,400,b'K7eV\n',b,1-42,1.8,,103,,"2005
+"
+b'HD 162020',b'Scorpius',17h50m38s,"b'\xe2\x80\x9340\xc2\xb0\xc2\xa019\'\xc2\xa006""'",9.18,101.95,b'K2V\n',b,15.0,,8.428198,0.0751,0.277,"2000
+"
+b'Nu Ophiuchi',b'Ophiuchus',17h59m01s,"b'-09\xc2\xb0\xc2\xa046\'\xc2\xa025""'",3.33,152.8,b'K0III\n',b,21.9,,536,,0.13,"2004
+"
+b'HD 164427',b'Telescopium',18h04m43s,"b'-59\xc2\xb0\xc2\xa012\'\xc2\xa035""'",6.89,127.52,b'G4IV\n',b,46,,108.55,0.46,0.55,"2000
+"
+b'SCR 1845-6357',b'Pavo',18h45m07s,"b'-63\xc2\xb0\xc2\xa057\'\xc2\xa043""'",17.4,12.57,b'M8.5V\n',B,40-50,,,4.1,,"2006
+"
+b'COROT-3',b'Aquila',19h28m13s,"b'+00\xc2\xb0\xc2\xa007\'\xc2\xa019""'",13.3,2220,b'G0V\n',b,21.66,1.01,4.2568,0.057,0,"2008
+"
+b'15 Sagittae',b'Sagitta',20h04m06s,"b'+17\xc2\xb0\xc2\xa004\'\xc2\xa013""'",5.80,57.7,b'G1V\n',B,65,,,14,,"2002
+"
+b'Zeta Delphini',b'Delphinus',20h35m19s,"b'+14\xc2\xb0\xc2\xa040\'\xc2\xa027""'",4.65,220,b'A3V\n',B,55,,,910,,"2014
+"
+b'HD 202206',b'Capricornus',21h14m58s,"b'\xe2\x80\x9320\xc2\xb0\xc2\xa047\'\xc2\xa020""'",8.08,151.14,b'G6V\n',b,17.4,,255.87,0.83,0.435,"2000
+"
